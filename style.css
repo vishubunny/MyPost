@@ -5,7 +5,9 @@ body {
     text-transform: uppercase;
     font-size: 10rem;
   }
-  
+   p{
+    font-size:xx-large;
+  }
   .poster {
     width: 50%;
     margin-left: 25%;
